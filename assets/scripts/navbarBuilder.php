@@ -21,10 +21,10 @@
         <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav ms-auto">
                 <li class="nav-item">
-                    <a class="nav-link" href="about.php" style="color: var(--polo-blue-100);">About</a>
+                    <a class="nav-link" href="" style="color: var(--polo-blue-100);">About</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="gallery.php" style="color: var(--polo-blue-100);">Discover</a>
+                    <a class="nav-link" href="discover_page.php" style="color: var(--polo-blue-100);">Discover</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="pricing.php" style="color: var(--polo-blue-100);">Pricing</a>
