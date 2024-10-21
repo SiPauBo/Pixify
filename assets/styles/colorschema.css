@@ -1,0 +1,28 @@
+:root {
+    /* Polo Blue Color Palette */
+    --polo-blue-50: #f2f6fc;
+    --polo-blue-100: #e2eaf7;
+    --polo-blue-200: #cbdbf2;
+    --polo-blue-300: #a7c4e9;
+    --polo-blue-400: #88ade0;
+    --polo-blue-500: #5e87d3;
+    --polo-blue-600: #4a6ec6;
+    --polo-blue-700: #405cb5;
+    --polo-blue-800: #394b94;
+    --polo-blue-900: #324276;
+    --polo-blue-950: #222a49;
+}
+
+:root {
+    --background: #ffffff;
+}
+/* to use it you need to include following tag in other css files:
+@import url('../styles/colorschema.css');
+*/  
+
+/* to check on ui colors visit following link and paste the hex code:
+
+https://uicolors.app/create
+
+#88ade0
+*/
